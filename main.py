@@ -36,7 +36,7 @@ Remove-Item -Recurse -Force .\dist -ErrorAction SilentlyContinue
 2. Compila o Python para Executável
 pyinstaller --name adminer-launcher --noconsole main.py --icon="docs/img/Icone-Adminer-Launcher.ico"
 
-3. Copia a pasta 'lang' para dentro da 'dist'
+3. Copia a pasta 'lang' para dentro da 'dist\adminer-launcher'
 Copy-Item -Path ".\lang" -Destination ".\dist\adminer-launcher\lang" -Recurse -Force
 
 4. Gera o Instalador do Windows
