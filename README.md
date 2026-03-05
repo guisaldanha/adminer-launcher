@@ -120,6 +120,30 @@ The script is configured to include all necessary files and set up the applicati
 
 ------------------------------------------------------------------------
 
+## 📜 License
+
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
+
+------------------------------------------------------------------------
+
+## 🔗 Related Adminer Projects
+
+### 🖥️ Adminer Launcher
+
+Standalone desktop application that runs Adminer locally with an embedded PHP server and a native PyWebView interface.\
+[https://github.com/guisaldanha/adminer-launcher](https://github.com/guisaldanha/adminer-launcher)
+
+### 🤖 SQL Ollama
+
+Adminer plugin that integrates Ollama to generate SQL queries using local AI models.\
+[https://github.com/guisaldanha/sql-ollama](https://github.com/guisaldanha/sql-ollama)
+
+### 🎨 Adminer Obsidian Amber
+
+Custom dark theme for Adminer inspired by the Obsidian interface with amber accents.\
+[https://github.com/guisaldanha/adminer-obsidian-amber](https://github.com/guisaldanha/adminer-obsidian-amber)
+
+------------------------------------------------------------------------
 
 ## 👨‍💻 Author
 
@@ -140,12 +164,6 @@ Ways to help:
 - ☕ Buy me a coffee by [clicking here (PayPal)](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=guisaldanha@gmail.com&item_name=Buy%20a%20coffee%20because%20Adminer%20Launcher)
 
 ------------------------------------------------------------------------
-
-## 📜 License
-
-This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
-
-------------------------------------------------------------------------
 <div align="center">
-  <p>Made with coffee by Guilherme Saldanha</p>
+  <p>Made with ☕ by Guilherme Saldanha</p>
 </div>
