@@ -1,0 +1,80 @@
+{
+  "_lang_name": "English",
+  "_lang_code": "en_US",
+
+  "menu.settings": "⚙️ Settings",
+  "menu.about":    "ℹ️ About",
+  "menu.servers":  "🗄️ Servers ▾",
+  "menu.home":     "🏠 Home",
+  "menu.back":     "◀ Back",
+  "menu.forward":  "▶ Forward",
+  "menu.reload":   "🔄 Reload",
+  "menu.quit":     "✖ Quit",
+
+  "toast.error_title":   "Export error",
+  "toast.open_file":     "Open file",
+  "toast.saved_in":      "Saved in",
+  "toast.generating":    "Generating export…",
+  "toast.read_error":    "Failed to read file data.",
+  "toast.unknown_error": "Unknown error.",
+  "toast.copy":          "📋 Copy",
+  "toast.copied":        "✅ Copied!",
+  "toast.copy_error":    "❌ Error",
+  "toast.save":          "💾 Save",
+  "toast.save_error":    "Error saving:",
+  "toast.close":         "✕ Close",
+
+  "overlay.lines": "lines",
+
+  "settings.title":          "Settings — Adminer Launcher",
+  "settings.h1":             "⚙️ Settings — Adminer Launcher",
+
+  "settings.section.app":      "Application",
+  "settings.app.window_title": "Window title",
+  "settings.app.php_port":     "PHP server port",
+  "settings.app.width":        "Width (px)",
+  "settings.app.height":       "Height (px)",
+  "settings.app.maximized":    "Start maximized",
+  "settings.app.debug":        "Debug mode (generates log)",
+
+  "settings.section.language": "Language",
+  "settings.lang.label":       "Interface language",
+
+  "settings.section.ollama": "Ollama — Local SQL Assistant",
+  "settings.ollama.host":    "Host",
+  "settings.ollama.model":   "Model",
+
+  "settings.section.servers": "Servers",
+  "settings.server.add":      "＋ Add server",
+
+  "settings.server.display_name_placeholder": "Display name",
+  "settings.server.remove":                   "Remove",
+  "settings.server.host":                     "Host / Path",
+  "settings.server.host_placeholder":         "localhost or /path/to/db.sqlite3",
+  "settings.server.driver":                   "Driver",
+  "settings.server.user":                     "User",
+  "settings.server.user_placeholder":         "postgres",
+  "settings.server.password":                 "Password",
+  "settings.server.password_hint":            "Stored encrypted with install.key",
+  "settings.server.db":                       "Default database",
+  "settings.server.db_placeholder":           "mydb",
+
+  "settings.btn.cancel": "Cancel",
+  "settings.btn.save":   "💾 Save and restart",
+
+  "settings.error.empty_label":  "Every server must have a display name.",
+  "settings.error.save_failed":  "Failed to save settings.",
+  "settings.success.saved":      "✅ Settings saved! Restarting…",
+
+  "about.title":            "About — Adminer Launcher",
+  "about.launcher_version": "Launcher Version",
+  "about.adminer_version":  "Adminer Version",
+  "about.php_version":      "PHP Version",
+  "about.developed_by":     "Developed by",
+  "about.site":             "Website",
+  "about.github":           "GitHub",
+  "about.goal":             "Goal",
+  "about.goal_text":        "Lightweight database manager — PostgreSQL, MySQL and SQLite — with web interface via Adminer running locally.",
+  "about.languages":        "Languages",
+  "about.close":            "Close"
+}

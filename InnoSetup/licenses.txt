@@ -1,0 +1,32 @@
+Licenses and Important Notes
+
+This installer downloads third-party software directly from official websites, as described below:
+
+1. Adminer
+
+- Adminer is distributed under the Apache 2.0 license.
+- The installer downloads Adminer directly from the official website (https://www.adminer.org) or the official GitHub repository.
+- The user must accept the terms of the Apache 2.0 license when using Adminer (https://www.apache.org/licenses/LICENSE-2.0.html).
+- More information: https://www.adminer.org/
+
+2. Adminer Plugins
+
+- Plugins are downloaded directly from the official Adminer website.
+- Each plugin follows the Adminer license.
+
+3. PHP
+- PHP is distributed under the PHP License.
+- The installer downloads PHP directly from the official website (https://www.php.net).
+- The user must accept the terms of the PHP License when using PHP.
+- More information: https://www.php.net/license/
+
+4. This Project
+
+- The code for this installer and auxiliary scripts are distributed under the Apache 2.0 license.
+- Copyright 2026 Guilherme Saldanha.
+
+Notes:
+
+- No third-party binaries are directly redistributed in this package. All files are downloaded from official websites during installation.
+- It is recommended that the user read and accept the terms of use of each software before using it.
+- If you have any questions, consult the official websites or contact the developers of the respective software.

@@ -1,0 +1,17 @@
+# Folders
+/.venv
+/php
+/build
+/temp
+/adminer-plugins
+/backups
+/dist
+
+# Files
+config.json
+db.sqlite3
+install.key
+adminer.css
+adminer*.php
+*.log
+*.spec
