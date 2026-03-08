@@ -3,7 +3,7 @@
 ; ============================================================
 
 #define MyAppName "Adminer Launcher"
-#define MyAppVersion "1.0.0"
+#define MyAppVersion "1.0.1"
 #define MyAppPublisher "GuiSaldanha.com"
 #define MyAppURL "https://www.guisaldanha.com/"
 #define MyAppExeName "adminer-launcher.exe"

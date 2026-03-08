@@ -56,7 +56,7 @@ import sys
 import threading
 import time
 
-LAUNCHER_VERSION = "1.0.0"
+LAUNCHER_VERSION = "1.0.1"
 ADMINER_VERSION  = "5.4.2"
 PHP_VERSION      = "8.5.3"
 DEFAULT_FORMAT_LOG = "%(asctime)s - [%(pathname)s:%(lineno)d]\t- %(levelname)-7s - %(message)s"
@@ -1852,7 +1852,7 @@ def main():
 
     log.info("Iniciando webview...")
     try:
-        webview.start(debug=debug, private_mode=True)
+        webview.start(debug=True, private_mode=True)
     except KeyboardInterrupt:
         log.info("KeyboardInterrupt recebido.")
     finally:
