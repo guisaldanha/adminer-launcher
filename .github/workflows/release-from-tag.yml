@@ -1,0 +1,24 @@
+on:
+  push:
+    tags:
+      - '*'
+
+name: Create Release From Tags
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Create Release
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@master
+      - name: Create Release
+        uses: softprops/action-gh-release@v2
+        with:
+          body: |
+            To see the changes in this version, see the CHANGELOG.md file.
+          draft: false
+          prerelease: false
