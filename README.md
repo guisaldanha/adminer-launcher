@@ -55,7 +55,7 @@ Just want to use Adminer Launcher without building from source?
 Download the ready-to-use installer and start managing your databases in seconds:
 
 <div align="center">
-<a href="https://github.com/guisaldanha/adminer-launcher/releases/latest/download/adminer-launcher-setup-1.0.0.exe">
+<a href="https://github.com/guisaldanha/adminer-launcher/releases/latest">
   <img src="docs/img/download-installer.png" alt="Installer Screenshot" width="400">
 </a>
   <p>Compatible with Windows 10/11 • No PHP or Python installation required • All-in-one package</p>
